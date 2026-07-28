@@ -1,49 +1,51 @@
-# 💫 About Me
-
-🔭 **Currently working on**  
-Data Structures & Algorithms and foundational web development projects  
-
-👯 **Looking to collaborate on**  
-Beginner–intermediate coding projects and open-source contributions  
-
-🤝 **Looking for help with**  
-Optimizing problem-solving approaches and real-world project structuring  
-
-🌱 **Currently learning**  
-Advanced DSA concepts and full-stack web development basics  
-
-💬 **Ask me about**  
-C, C++, Java, Python, Git, and DSA fundamentals  
-
-⚡ **Fun fact**  
-I enjoy breaking problems down to their simplest logic before coding  
+<h1 align="center">Hi 👋, I'm Mir Mujaddad Ali</h1>
+<h3 align="center">Computer Science Student | DSA Enthusiast | Aspiring Full-Stack Developer</h3>
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirali_7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-mujaddad-ali-9436b5361)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mir78041@gmail.com)
+## 💫 About Me
+
+- 🔭 Currently working on **Data Structures & Algorithms** and **Web Development**
+- 🌱 Learning **Advanced DSA**, **Java**, and **Full-Stack Development**
+- 👯 Open to collaborating on **Open Source** and **Beginner-Friendly Projects**
+- 🤝 Looking for guidance in **System Design** and **Building Scalable Projects**
+- 💬 Ask me about **C, C++, Java, Python, Git, and DSA**
+- ⚡ Fun fact: *I enjoy simplifying complex problems before writing code.*
 
 ---
 
-## 💻 Languages I Know
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+mir-mujaddad-ali)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mirali_7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mir78041@gmail.com)
 
 ---
 
-## 🛠️ Tools & Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+## 💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MIR-7ax&show_icons=true&theme=dark)
+## 🛠️ Technologies & Tools
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MIR-7ax&layout=compact&theme=dark)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=MIR-7ax&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIR-7ax&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIR-7ax&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=MIR-7ax&icon=5&color=6)
