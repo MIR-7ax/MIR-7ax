@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mir Mujaddad Ali</h1>
+<h1 align="center">Hi, I'm Mir Mujaddad Ali</h1>
 <h3 align="center">Computer Science Student | DSA Enthusiast | Aspiring Full-Stack Developer</h3>
 
 ---
 
-## 💫 About Me
+## About Me
 
-- 🔭 Currently working on **Data Structures & Algorithms** and **Web Development**
-- 🌱 Learning **Advanced DSA**, **Java**, and **Full-Stack Development**
-- 👯 Open to collaborating on **Open Source** and **Beginner-Friendly Projects**
-- 🤝 Looking for guidance in **System Design** and **Building Scalable Projects**
-- 💬 Ask me about **C, C++, Java, Python, Git, and DSA**
-- ⚡ Fun fact: *I enjoy simplifying complex problems before writing code.*
+- Currently working on **Data Structures & Algorithms** and **Web Development**
+- Learning **Advanced DSA**, **Java**, and **Full-Stack Development**
+- Open to collaborating on **Open Source** and **Beginner-Friendly Projects**
+- Looking for guidance in **System Design** and **Building Scalable Projects**
+- Ask me about **C, C++, Java, Python, Git, and DSA**
+- I enjoy simplifying complex problems before writing code.
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-mujaddad-ali-9436b5361)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mirali_7)
@@ -22,7 +22,7 @@
 
 ---
 
-## 💻 Languages
+## Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -39,11 +39,12 @@
 
 ---
 
-## 📈 GitHub Activity
+## Current Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIR-7ax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIR-7ax&layout=compact&theme=tokyonight&hide_border=true)
+- Solving Data Structures & Algorithms problems
+- Building Full-Stack web applications
+- Contributing to Open Source
+- Improving problem-solving and software development skills
 
 ---
 
