@@ -43,10 +43,12 @@ I enjoy breaking problems down to their simplest logic before coding
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MIR-7ax&theme=dark&hide_border=true&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=MIR-7ax&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MIR-7ax&theme=dark&hide_border=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=MIR-7ax&show_icons=true&theme=dark&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=MIR-7ax&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MIR-7ax&layout=compact&theme=dark&hide_border=true)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=MIR-7ax&icon=0&color=0)](https://visitcount.itsvg.in)
